@@ -22,15 +22,15 @@
     }
   ],
   "dependencies": {
-    "connect": "2.12.0",
+    "connect": "3.0.0",
     "accepts": "1.0.0",
     "type-is": "1.0.0",
     "range-parser": "0.0.4",
     "cookie": "0.1.0",
     "buffer-crc32": "0.2.1",
-    "fresh": "0.2.0",
+    "fresh": "0.5.2",
     "methods": "0.1.0",
-    "send": "0.1.4",
+    "send": "0.15.5",
     "cookie-signature": "1.0.1",
     "merge-descriptors": "0.0.1",
     "debug": ">= 0.7.3 < 1"
